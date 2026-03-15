@@ -23,6 +23,13 @@ y = df.iloc[:, 1]
 nomes_variaveis = X.columns
 samples = df.iloc[:,0]
 
+#%% Testando github
+
+#Fazendo alterações no arquivo
+x = 2
+
+
+
 #%% Análise de componentes principais (PCA)
 
 import numpy as np
